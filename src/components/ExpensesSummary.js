@@ -13,7 +13,6 @@ const badAtNaming = (props) => {
 } 
 
 const ExpensesSummary = (props) => {
-    console.log(props);
     return (
         <div>{badAtNaming(props)}</div>
     )
