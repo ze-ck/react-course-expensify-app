@@ -1,3 +1,6 @@
+## Hosted at https://react-course-expensify-zeck.herokuapp.com
+Application with authorization that allows users to track their expenses. Includes the ability to filter expenses by date and expense name.
+
 # Git Commands
 
 git init- create a new git repo
